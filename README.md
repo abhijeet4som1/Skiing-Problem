@@ -30,7 +30,9 @@ Your challenge is to write a program in your favorite programming language to fi
 
 
 
-#Result 
-map.txt present in 'com.main.skiing' package
+#Result
+
 Execute 'com.skiing.main.StartPoint'
+
+for 'map.txt' file present in 'com.main.skiing' package
 Result:151422 start point:1422
